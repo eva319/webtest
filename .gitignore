@@ -2,4 +2,4 @@ $more .gitignore
 Thumbs.db
 bower_components
 node_modules
-.idea  
+.idea
